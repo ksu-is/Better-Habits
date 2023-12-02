@@ -2,5 +2,5 @@
 - [x] Create README
 - [x] Create project roadmap
 - [x] Search for related repository and clone it
-- [ ] Make commits when needed 
+- [x] Make commits when needed 
 - [ ] Start coding for habit tracker
